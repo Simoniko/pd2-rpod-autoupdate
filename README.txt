@@ -1,1 +1,1 @@
-# pd2-rpod
+# Payday 2 Random Pager on Domination mod auto update.
