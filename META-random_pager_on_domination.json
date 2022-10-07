@@ -1,6 +1,6 @@
 [
     {
-        "ident": "21088",
+        "ident": "rpod",
         "version": "v1.1",
         "patchnotes_url": "https://raw.githubusercontent.com/Simoniko/pd2-rpod/master/README.txt",
         "download_url": "https://github.com/Simoniko/pd2-rpod/archive/master.zip"
