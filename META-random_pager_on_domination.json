@@ -1,7 +1,7 @@
 [
     {
         "ident": "rpod",
-        "version": "v1.1",
+        "version": "v1.2",
         "patchnotes_url": "https://simoniko.github.io/",
         "download_url": "https://github.com/Simoniko/pd2-rpod/archive/master.zip"
     }
